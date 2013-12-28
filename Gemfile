@@ -32,7 +32,9 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-gem 'haml'
+gem 'haml-rails'
+
+gem 'bootstrap-sass'
 
 
 
